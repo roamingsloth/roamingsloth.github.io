@@ -1,5 +1,29 @@
+.html{
+  font-style:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.body_main{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  width: 90%;
+  align-items: center;
+  position: absolute;
+  background-color: #EFEFEF;
+}
+
 .header_main{
-  margin: 0px;
-  height: 100px;
+  position: absolute;
+  float: center;
+  width: 100%;
+  height: 300px;
   background-color: #C3C3C3;
+}
+
+.head1{
+  align:left;
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 10px;
+  font-size: 20px;
 }
